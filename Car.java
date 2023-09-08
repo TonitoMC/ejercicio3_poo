@@ -32,14 +32,6 @@ public class Car {
     }
 
     /**
-     * Getter method for brand
-     * @return Brand string
-     */
-    public String getBrand(){
-        return this.brand;
-    }
-
-    /**
      * Adds a service object to the car's service ArrayList
      * @param service the specific service to be added
      */
